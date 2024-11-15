@@ -83,7 +83,7 @@ nav a:hover{
 	margin: auto;
 	box-shadow: 10px 10px 30px 15px #000000;
 	/*top right bottom left*/
-	margin: 0px 70px 0px 0px;
+	margin: 0px 70px 0px 70px;
 	opacity: 0.5;
 	transition: 3s opacity;
 }
