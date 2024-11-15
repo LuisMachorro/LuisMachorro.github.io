@@ -17,7 +17,7 @@ header{
 }
 
 .head_caja{
-	width: 640px;
+	width: 840px;
 	position: relative;
 	margin: 0 auto;
 }
@@ -79,7 +79,7 @@ nav a:hover{
 }
 
 .yo{
-	width: 100%;
+	width: 80%;
 	box-shadow: 10px 10px 30px 15px #000000;
 	/*top right bottom left*/
 	margin-bottom: 40px;
